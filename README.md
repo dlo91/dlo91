@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @dlo91
 - 👀 I’m interested in Python, AI, and ML. 
-- 🌱 I’m currently learning Python, but very much a n00b.
 - 🗺️ New Orleans, LA.
 
 <!---
