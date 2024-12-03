@@ -1,4 +1,4 @@
-- 👀 I’m interested in Python, AI, and ML. 
+- 👀 I’m interested in Python, Automating tests, and ML. 
 - 🗺️ New Orleans, LA.
 
 <!---
